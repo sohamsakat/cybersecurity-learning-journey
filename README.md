@@ -23,3 +23,4 @@ toward offensive security from zero.
 
 ## Connect
 - GitHub: github.com/sohamsakat
+- X: x.com/sakatsoham
