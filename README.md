@@ -1,83 +1,51 @@
-# 🚀 Cybersecurity Learning Journey
+# 🚀 Soham Sakat
 
-Hi, I'm Soham.
+Computer Engineering student learning Cybersecurity from scratch and documenting the journey publicly.
 
-Computer Engineering student from Mumbai building skills in:
-
-- Linux
-- Python
-- Networking
-- Web Security
-- Offensive Security
-- Red Teaming
-
-My goal is to become a professional offensive security engineer and document everything I learn publicly.
+My primary focus is Offensive Security, Red Teaming, Linux, Python, Networking and Web Application Security.
 
 ---
 
-# 📚 Current Roadmap
+## 🎯 Current Focus
 
-### Linux Fundamentals
-- [x] File Management
-- [x] Navigation Commands
-- [x] Process Management
-- [ ] Permissions
-- [ ] Package Management
-- [ ] Bash Scripting
+- Linux Fundamentals
+- Python for Security Automation
+- Networking
+- Web Application Security
 
-### Python for Cybersecurity
-- [x] Variables
-- [x] Input / Output
-- [x] Loops
-- [ ] Functions
-- [ ] File Handling
-- [ ] Automation Scripts
+---
+
+## 📂 Repository Structure
+
+### Linux
+Linux notes, commands, practice labs and exercises.
+
+### Python
+Python fundamentals, scripts and security automation projects.
 
 ### Networking
-- [x] OSI Model
-- [x] TCP/IP Basics
-- [ ] IPv4 Subnetting
-- [ ] Routing
-- [ ] DNS
-- [ ] HTTP/HTTPS
+Networking notes, subnetting, protocols and labs.
 
-### Offensive Security
-- [ ] Nmap
-- [ ] Wireshark
-- [ ] Burp Suite
-- [ ] Web Enumeration
-- [ ] TryHackMe Labs
-- [ ] HackTheBox Labs
+### Tools
+Security tools built during the learning journey.
+
+### Writeups
+TryHackMe, HackTheBox and CTF writeups.
 
 ---
 
-# 🛠 Projects
+## 🛠 Planned Projects
 
-| Project | Status |
-|----------|----------|
-| Linux Notes Repository | ✅ Active |
-| Python Fundamentals | ✅ Active |
-| Network Notes | 🔄 In Progress |
-| Nmap Automation Tool | ⏳ Planned |
-| Port Scanner | ⏳ Planned |
-| Recon Toolkit | ⏳ Planned |
+- Port Scanner
+- Network Scanner
+- Password Generator
+- Web Recon Tool
+- Log Analyzer
+- Subdomain Enumerator
 
 ---
 
-# 📝 Learning Log
-
-## Day 1
-- Linux Navigation
-- File Management
-- Process Commands
-- Command History
-
-## Day 2
-- (Updating...)
-
----
-
-# 🎯 Certifications Targeted
+## 📚 Certifications Planned
 
 - eJPT
 - PNPT
@@ -85,22 +53,14 @@ My goal is to become a professional offensive security engineer and document eve
 
 ---
 
-# 📈 GitHub Goals
+## 🌐 Connect
 
-- Document every learning milestone
-- Publish security tools
-- Build practical labs
-- Share writeups
-- Contribute to open-source projects
+GitHub:
+https://github.com/sohamsakat
 
----
-
-# 🌐 Connect
-
-GitHub: https://github.com/sohamsakat
-
-X (Twitter): https://x.com/sakatsoham
+X:
+https://x.com/sakatsoham
 
 ---
 
-> Still learning. Still building. One day at a time.
+> Learning in public. Building one skill at a time.
