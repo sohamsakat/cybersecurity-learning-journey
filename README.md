@@ -1,26 +1,106 @@
-# Cybersecurity Learning Journey
+# 🚀 Cybersecurity Learning Journey
 
-Computer Engineering final year student building 
-toward offensive security from zero.
+Hi, I'm Soham.
 
-## Current Focus
-- Python scripting for security tools
-- Linux fundamentals on Kali
-- Networking and protocols
-- Web application hacking
+Computer Engineering student from Mumbai building skills in:
 
-## Progress Log
-| Day | Topics Covered |
-|-----|---------------|
-| Day 1 | Python fundamentals — 9 programs |
+- Linux
+- Python
+- Networking
+- Web Security
+- Offensive Security
+- Red Teaming
 
-## Tools Built
-- Coming soon
+My goal is to become a professional offensive security engineer and document everything I learn publicly.
 
-## Certifications Planned
-- eJPT (INE)
-- OSCP (Offensive Security)
+---
 
-## Connect
-- GitHub: github.com/sohamsakat
-- X: x.com/sakatsoham
+# 📚 Current Roadmap
+
+### Linux Fundamentals
+- [x] File Management
+- [x] Navigation Commands
+- [x] Process Management
+- [ ] Permissions
+- [ ] Package Management
+- [ ] Bash Scripting
+
+### Python for Cybersecurity
+- [x] Variables
+- [x] Input / Output
+- [x] Loops
+- [ ] Functions
+- [ ] File Handling
+- [ ] Automation Scripts
+
+### Networking
+- [x] OSI Model
+- [x] TCP/IP Basics
+- [ ] IPv4 Subnetting
+- [ ] Routing
+- [ ] DNS
+- [ ] HTTP/HTTPS
+
+### Offensive Security
+- [ ] Nmap
+- [ ] Wireshark
+- [ ] Burp Suite
+- [ ] Web Enumeration
+- [ ] TryHackMe Labs
+- [ ] HackTheBox Labs
+
+---
+
+# 🛠 Projects
+
+| Project | Status |
+|----------|----------|
+| Linux Notes Repository | ✅ Active |
+| Python Fundamentals | ✅ Active |
+| Network Notes | 🔄 In Progress |
+| Nmap Automation Tool | ⏳ Planned |
+| Port Scanner | ⏳ Planned |
+| Recon Toolkit | ⏳ Planned |
+
+---
+
+# 📝 Learning Log
+
+## Day 1
+- Linux Navigation
+- File Management
+- Process Commands
+- Command History
+
+## Day 2
+- (Updating...)
+
+---
+
+# 🎯 Certifications Targeted
+
+- eJPT
+- PNPT
+- OSCP
+
+---
+
+# 📈 GitHub Goals
+
+- Document every learning milestone
+- Publish security tools
+- Build practical labs
+- Share writeups
+- Contribute to open-source projects
+
+---
+
+# 🌐 Connect
+
+GitHub: https://github.com/sohamsakat
+
+X (Twitter): https://x.com/sakatsoham
+
+---
+
+> Still learning. Still building. One day at a time.
